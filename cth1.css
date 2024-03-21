@@ -1,0 +1,22 @@
+body {
+  size: 50px;
+}
+.grn {
+  background-color: #a2ff86;
+}
+
+.bc1 {
+  text-align: center;
+  background-color: rgba(255, 99, 71, 0.5);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bc21 {
+  background-color: #f4e869;
+  padding: 10px 5px 10px 5px;
+}
+.prp {
+  background-color: #d67bff;
+  margin: 0;
+}
